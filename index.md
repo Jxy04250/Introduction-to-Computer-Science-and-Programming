@@ -1,3 +1,11 @@
+# 计算机科学与编程入门课程 大作业展示
+[大作业展示_timeline_bar_reversal](https://Jxy04250.github.io/timeline_bar_reversal.html)
+
+[大作业展示_timeline_pie](https://Jxy04250.github.io/timeline_pie.html)
+
+[大作业展示_line_chart](https://Jxy04250.github.io/line_chart.html)
+
+
 # 计算机科学与编程入门课程第二次作业
 ## 1800012757 蒋雪莹
 ### 1. 作业1
